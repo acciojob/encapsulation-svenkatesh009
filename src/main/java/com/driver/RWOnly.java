@@ -8,4 +8,5 @@ public class RWOnly {
     public String getting(){
         return this.name;
     }
+    // resulted
 }
